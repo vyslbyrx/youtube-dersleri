@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="71" viewBox="0 0 188 71">
+  <g id="dark-line-button-bg" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2" stroke-dasharray="418 20">
+    <path d="M35.5,0h117A35.5,35.5,0,0,1,188,35.5v0A35.5,35.5,0,0,1,152.5,71H9.907A9.907,9.907,0,0,1,0,61.093V35.5A35.5,35.5,0,0,1,35.5,0Z" stroke="none"/>
+    <path d="M35.5,1h117A34.5,34.5,0,0,1,187,35.5v0A34.5,34.5,0,0,1,152.5,70H10.036A9.036,9.036,0,0,1,1,60.964V35.5A34.5,34.5,0,0,1,35.5,1Z" fill="none"/>
+  </g>
+</svg>

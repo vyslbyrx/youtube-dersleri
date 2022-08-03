@@ -1,0 +1,7 @@
+<svg id="Button" xmlns="http://www.w3.org/2000/svg" width="195" height="70" viewBox="0 0 195 70">
+  <g id="Rectangle_1" data-name="Rectangle 1" fill="none" stroke="#000" stroke-linecap="round" stroke-width="2" stroke-dasharray="418 20">
+    <path d="M35,0H160a35,35,0,0,1,35,35v0a35,35,0,0,1-35,35H9.767A9.767,9.767,0,0,1,0,60.233V35A35,35,0,0,1,35,0Z" stroke="none"/>
+    <path d="M35,1H160a34,34,0,0,1,34,34v0a34,34,0,0,1-34,34H9.9A8.9,8.9,0,0,1,1,60.1V35A34,34,0,0,1,35,1Z" fill="none"/>
+  </g>
+  <text id="Learn_more" data-name="Learn more" transform="translate(44 42)" fill="#0b0d39" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Learn more</tspan></text>
+</svg>
